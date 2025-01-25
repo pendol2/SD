@@ -1,6 +1,6 @@
 # SD's Hackathon Template Github
 
-**2025-1-23**  **-** **2025** 
+**2025-1-23**  **-** **2025-2-1**
 
 Github Pages based template for hackathons
 
